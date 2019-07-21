@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+body {
+    background-color: lightblue;
+  }
+
+.subcontainer{
+position: relative;
+font-family: fantasy;
+
+}
+
+.gamezone{
+position: relative;
+text-align: center;
+font-family: fantasy;
+display: block;
+height: 125px;
+width: 125px;
+}
+  
+.button{
+font-size: 15px;
+display: block;
+height: 125px;
+width: 125px;
+
+}
+.questions{
+display: block;
+height: 125px;
+width: 125px;
+text-align: center;
+font-family: fantasy;
+
+}
